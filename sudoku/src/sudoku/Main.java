@@ -34,7 +34,7 @@ public class Main {
             System.out.println("4 - Visualizar jogo atual");
             System.out.println("5 - Verificar status do jogo");
             System.out.println("6 - limpar jogo");
-            System.out.println("7 - Finalizar jogo");
+            System.out.println("7 - Finalizar jogo"); 
             System.out.println("8 - Sair");
 
             option = scanner.nextInt();
