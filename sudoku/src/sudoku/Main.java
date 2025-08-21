@@ -38,6 +38,7 @@ public class Main {
             System.out.println("8 - Sair");
 
             option = scanner.nextInt();
+            
 
             switch (option){
                 case 1 -> startGame(positions);
